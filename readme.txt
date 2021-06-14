@@ -1,1 +1,1 @@
-hello there
+This is a test file for the Git-it Guide Assignment. 
